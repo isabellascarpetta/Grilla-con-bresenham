@@ -28,7 +28,7 @@ static int g_gridCols = 80; // Número de columnas
 static int g_gridRows = 80; // Número de filas
 
 // Colores en formato RGBA [0.0 a 1.0]
-static GLfloat g_baseColor[4] = { 0.2f, 0.2f, 0.2f, 1.0f }; // Gris oscuro para la grilla vacía
+static GLfloat g_baseColor[4] = { 0.1f, 0.1f, 0.1f, 1.0f }; // Gris oscuro para la grilla vacía
 static GLfloat g_lineColor[4] = { 1.0f, 0.0f, 0.0f, 1.0f }; // Rojo brillante para las líneas
 
 static GLsizei g_squareIndexCount = 0;
