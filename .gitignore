@@ -1,0 +1,10 @@
+# Carpetas y archivos de compilación de Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.exe
+*.obj
+*.log
