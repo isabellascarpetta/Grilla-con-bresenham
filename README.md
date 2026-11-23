@@ -46,5 +46,3 @@ El código fuente está organizado en cinco bloques funcionales:
 * Callbacks de Entrada: ScreenToGridCoords mapea píxeles de pantalla a celdas invirtiendo el eje Y; mouse_button_callback y cursor_position_callback gestionan el inicio, arrastre continuo y cierre de cada trazo; y key_callback habilita los atajos 1–6 y la tecla R para limpiar el lienzo.
 
 * Ciclo Principal (main): Orquesta la inicialización de librerías, el bucle de renderizado por cuadro con los paneles de Dear ImGui y la liberación ordenada de recursos al cerrar la ventana.
-
-Viñeta Ciclo Principal (main): Orquesta la inicialización de librerías, el bucle de renderizado por cuadro con los paneles de Dear ImGui y la liberación ordenada de recursos al cerrar la ventana.
